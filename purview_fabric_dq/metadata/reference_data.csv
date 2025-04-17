@@ -1,0 +1,4 @@
+customer_id,reference_email,reference_status,expected_amount
+1001,john.doe@email.com,active,150.50
+1002,jane.doe@email.com,inactive,75.25
+...
